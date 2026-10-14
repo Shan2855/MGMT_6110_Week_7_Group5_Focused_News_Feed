@@ -1,0 +1,6 @@
+{
+  "name": "TaskQuadrant - AI Task Segregation & Intelligence Briefing",
+  "description": "Interactive AI task segregation matrix based on human-AI collaboration quadrants, featuring Singapore Business News AI summarization and Zapier dispatch workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
